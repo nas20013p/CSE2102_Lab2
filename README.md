@@ -1,5 +1,5 @@
 # CSE2102_Lab2
-# Project Name (e.g., CSE2102 Maven Lab)
+# Basic Maven
 
 ## Overview
 Useing Maven to build, run, and test Java code. It includes unit testing with JUnit4.
@@ -7,7 +7,7 @@ Useing Maven to build, run, and test Java code. It includes unit testing with JU
 ## Project Structure
 - **src/main/java**: Contains the main application code.
 - **src/test/java**: Contains unit tests using JUnit4.
-- **pom.xml**: Maven configuration file, managing dependencies and build instructions.
+- **pom.xml**: Maven configuration file.
 
 
 ## Setup Instructions
